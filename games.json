@@ -1,0 +1,106 @@
+[
+    {
+        "id": "majiang",
+        "name": "雀蛇碰碰胡 (Mahjong Snake)",
+        "developer": "璃若尘",
+        "url": "https://gallery.liruochen.cn/majiang",
+        "image": "images/雀蛇碰碰胡.png",
+        "description": "创新地将经典贪吃蛇玩法与传统麻将元素相结合。在收集牌组的过程中体验策略与操作的乐趣。支持移动端。"
+    },
+    {
+        "id": "cyber-cat",
+        "name": "Cyber Neko",
+        "developer": "冰屋",
+        "url": "https://gallery.liruochen.cn/cyber-cat",
+        "image": "images/cyber-cat.png",
+        "description": "一款赛博朋克风格的打字练习小游戏，在充满 CRT 扫描线和霓虹色彩的界面中挑战你的打字速度。"
+    },
+    {
+        "id": "core-defencer",
+        "name": "Core Defencer",
+        "developer": "冰屋",
+        "url": "https://gallery.liruochen.cn/core-defencer",
+        "image": "images/core-defencer.png",
+        "description": "一款快节奏的塔防守卫游戏，保护你的核心免受不断袭来的敌人攻击。"
+    },
+    {
+        "id": "color-me",
+        "name": "Color War",
+        "developer": "冰屋",
+        "url": "https://gallery.liruochen.cn/color-me",
+        "image": "images/color-me.png",
+        "description": "泡泡堂风格的涂地对战小游戏，体验涂地与战术的结合。"
+    },
+    {
+        "id": "prisma-vanguard",
+        "name": "Prisma Vanguard",
+        "developer": "楚曦",
+        "url": "https://gallery.liruochen.cn/prisma-vanguard",
+        "image": "images/prisma-vanguard.png",
+        "description": "一款高节奏、霓虹风格的塔防游戏，颜色匹配是生存的关键。通过旋转棱镜来抵御不断袭来的光谱敌群。"
+    },
+    {
+        "id": "color-cruise",
+        "name": "调色航行 (Color Cruise)",
+        "developer": "营造",
+        "url": "https://gallery.liruochen.cn/color-cruise",
+        "image": "images/color-cruise.png",
+        "description": "一个基于HTML5 Canvas的颜色混合游戏，通过控制小船收集彩色气泡来混合颜色，匹配目标颜色。"
+    },
+    {
+        "id": "i-wanna-be-a-judge",
+        "name": "我要当法官 (I Wanna Be A Judge)",
+        "developer": "璃若尘",
+        "url": "https://gallery.liruochen.cn/i-wanna-be-a-judge",
+        "image": "images/i-wanna-be-a-judge.png",
+        "description": "一款法官模拟小游戏，玩家在模拟判案的过程中学习法律知识，深度体验法官职业的专业与责任。"
+    },
+    {
+        "id": "2048-idle",
+        "name": "2048 Idle",
+        "developer": "璃若尘",
+        "url": "https://gallery.liruochen.cn/2048-idle",
+        "image": "images/2048-idle.png",
+        "description": "一款结合了2048合成机制的挂机类游戏，在不断的合成与升级中探索更高级别的数字。"
+    },
+    {
+        "id": "zgca-sliding-puzzle",
+        "name": "学院华容道",
+        "developer": "营造",
+        "url": "https://gallery.liruochen.cn/zgca-sliding-puzzle",
+        "image": "images/zgca-sliding-puzzle.png",
+        "description": "北京中关村学院校园风景拼图，在拼图的过程中领略校园风光。"
+    },
+    {
+        "id": "craft-big-boss",
+        "name": "合成刘院长",
+        "developer": "璃若尘",
+        "url": "https://gallery.liruochen.cn/craft-big-boss",
+        "image": "images/craft-big-boss.png",
+        "description": "一款手办收集与战斗小游戏，组建你的手办战队，挑战强大的对手。"
+    },
+    {
+        "id": "college-link-connect",
+        "name": "高校连连看",
+        "developer": "楚曦",
+        "url": "https://gallery.liruochen.cn/college-link-connect",
+        "image": "images/college-link-connect.png",
+        "description": "连接相同的高校图标，挑战你的记忆力！"
+    },
+    {
+        "id": "zgca-project-root",
+        "name": "ZGCA GAMES",
+        "developer": "营造",
+        "url": "https://gallery.liruochen.cn/zgca-project-root",
+        "image": "images/zgca-project-root.png",
+        "description": "冬令营闯关平台"
+    },
+    {
+        "id": "i-wanna-publish-paper",
+        "name": "学术生产力模拟器",
+        "developer": "冰屋",
+        "url": "https://gallery.liruochen.cn/i-wanna-publish-paper",
+        "image": "images/i-wanna-publish-paper.png",
+        "description": "一款模拟学术研究过程的游戏，体验从想法到论文发表的完整学术生涯。"
+    }
+]
